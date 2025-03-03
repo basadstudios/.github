@@ -1,13 +1,10 @@
 # BASAD
 
-## Portfolio
+- [Portfolio - SOON](https://github.com/yourusername/project1)
 
 ## Applications
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
+- [SOON](https://github.com/yourusername/project1)
 
 ## Websites
-- [Open Source 1](https://github.com/yourusername/opensource1)
-- [Open Source 2](https://github.com/yourusername/opensource2)
-- [Collaboration 1](https://github.com/yourusername/collaboration1)
+- [InnoTech Manufacturing](https://basadstudios.github.io/Website-InnoTechMfg-Preview/)
+- [GreenValley](https://basadstudios.github.io/Website-GreenValley-Preview/)
