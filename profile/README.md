@@ -1,5 +1,6 @@
-# BASAD
 <img src="https://profile-counter.glitch.me/basadstudios/count.svg" />
+
+# BASAD
 - [Portfolio - SOON](https://github.com/yourusername/project1)
 
 ## Applications
