@@ -7,7 +7,7 @@
 
 ## Websites
 ### Eshop
-- [KAKE](https://github.com/basadstudios/kakeshop-preview)
+- [KAKE](https://basadstudios.github.io/kakeshop-preview/)
 
 ### Basic
 - [InnoTech Manufacturing](https://basadstudios.github.io/Website-InnoTechMfg-Preview/)
