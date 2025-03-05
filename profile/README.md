@@ -17,4 +17,5 @@
 ### Basic
 - [InnoTech Manufacturing](https://basadstudios.github.io/Website-InnoTechMfg-Preview/)
 - [GreenValley](https://basadstudios.github.io/Website-GreenValley-Preview/)
+- [La Bella Vita](https://basadstudios.github.io/Website-LaBellaVita-Preview/)
 - [CatCafe](https://basadstudios.github.io/Website-GreenValley-Preview/) - **SOON** -
