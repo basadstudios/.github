@@ -14,8 +14,10 @@
 ### Eshop
 - [KAKE](https://basadstudios.github.io/kakeshop-preview/) - **VIEW AVAILABLE - IN DEVELOPMENT** -
 
+### Restaurant
+- [La Bella Vita](https://basadstudios.github.io/Website-LaBellaVita-Preview/)
+  
 ### Basic
 - [InnoTech Manufacturing](https://basadstudios.github.io/Website-InnoTechMfg-Preview/)
 - [GreenValley](https://basadstudios.github.io/Website-GreenValley-Preview/)
-- [La Bella Vita](https://basadstudios.github.io/Website-LaBellaVita-Preview/)
-- [CatCafe](https://basadstudios.github.io/Website-GreenValley-Preview/) - **SOON** -
+- [CatCafe](https://basadstudios.github.io/Website-CatCafe-Preview/)
