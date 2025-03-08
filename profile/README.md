@@ -11,13 +11,9 @@
 - [basedroyal.io]() - **IN DEVELOPMENT** -
 
 ## Websites
-### Eshop
-- [KAKE](https://basadstudios.github.io/kakeshop-preview/) - **VIEW AVAILABLE - IN DEVELOPMENT** -
-
-### Restaurant
-- [La Bella Vita](https://basadstudios.github.io/Website-LaBellaVita-Preview/)
-  
-### Basic
-- [InnoTech Manufacturing](https://basadstudios.github.io/Website-InnoTechMfg-Preview/)
-- [GreenValley](https://basadstudios.github.io/Website-GreenValley-Preview/)
-- [CatCafe](https://basadstudios.github.io/Website-CatCafe-Preview/)
+- [KAKE](https://basadstudios.github.io/kakeshop-preview/)  = Eshop - **VIEW AVAILABLE - IN DEVELOPMENT** -
+- [La Bella Vita](https://basadstudios.github.io/Website-LaBellaVita-Preview/) = Restaurant
+- [Oakridge Academy](https://basadstudios.github.io/Website-LaBellaVita-Preview/) = School - **SOON**
+- [InnoTech Manufacturing](https://basadstudios.github.io/Website-InnoTechMfg-Preview/) = Selling services
+- [GreenValley](https://basadstudios.github.io/Website-GreenValley-Preview/) = Village
+- [CatCafe](https://basadstudios.github.io/Website-CatCafe-Preview/) = Coffee shop
