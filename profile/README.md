@@ -1,19 +1,45 @@
-<img src="https://profile-counter.glitch.me/basadstudios/count.svg" />
+<div align="center">
+  
+# BASAD Studios
 
-# BASAD
-- [Portfolio](https://basadstudios.com)
+![Visitors](https://profile-counter.glitch.me/basadstudios/count.svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-basadstudios.com-blue?style=flat-square&logo=web)](https://basadstudios.com)
 
-## Applications
-- [BASADLOADER](https://github.com/basadstudios/Universal-Video-Downloader)
-- [Ton]() - **IN DEVELOPMENT** -
+_Creating digital experiences that matter_
 
-## Games
-- [basedroyal.io]() - **IN DEVELOPMENT** -
+</div>
 
-## Websites
-- [KAKE](https://basadstudios.github.io/kakeshop-preview/)  = Eshop - **VIEW AVAILABLE - IN DEVELOPMENT** -
-- [La Bella Vita](https://basadstudios.github.io/Website-LaBellaVita-Preview/) = Restaurant
-- [Oakridge Academy](https://basadstudios.github.io/Website-LaBellaVita-Preview/) = School
-- [InnoTech Manufacturing](https://basadstudios.github.io/Website-InnoTechMfg-Preview/) = Selling services
-- [GreenValley](https://basadstudios.github.io/Website-GreenValley-Preview/) = Village
-- [CatCafe](https://basadstudios.github.io/Website-CatCafe-Preview/) = Coffee shop
+## 🚀 About
+
+BASAD Studios specializes in developing applications, games, and websites with a focus on clean design and functionality. Our portfolio showcases our versatility across multiple digital domains.
+
+## 💻 Applications
+
+| Project | Status | Description | Link |
+|---------|--------|-------------|------|
+| BASADLOADER | Released | Universal Video Downloader | [GitHub](https://github.com/basadstudios/Universal-Video-Downloader) |
+| Ton | In Development | The Best Music Player | Coming Soon |
+
+## 🎮 Games
+
+| Project | Status | Description | Link |
+|---------|--------|-------------|------|
+| basedroyal.io | In Development | - | Coming Soon |
+
+## 🌐 Websites
+
+| Project | Type | Status | Link |
+|---------|------|--------|-----------|
+| KAKE | E-commerce | In Development | [Preview](https://basadstudios.github.io/kakeshop-preview/) |
+| La Bella Vita | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-LaBellaVita-Preview/) |
+| Oakridge Academy | Educational | Completed | [Preview](https://basadstudios.github.io/Website-LaBellaVita-Preview/) |
+| InnoTech Manufacturing | Services | Completed | [Preview](https://basadstudios.github.io/Website-InnoTechMfg-Preview/) |
+| GreenValley | Local Community | Completed | [Preview](https://basadstudios.github.io/Website-GreenValley-Preview/) |
+| CatCafe | Coffee Shop | Completed | [Preview](https://basadstudios.github.io/Website-CatCafe-Preview/) |
+
+
+<div align="center">
+
+_© BASAD Studios_
+
+</div>
