@@ -36,6 +36,7 @@ BASAD Studios specializes in developing applications, games, and websites with a
 | InnoTech Manufacturing | Services | Completed | [Preview](https://basadstudios.github.io/Website-InnoTechMfg-Preview/) |
 | GreenValley | Local Community | Completed | [Preview](https://basadstudios.github.io/Website-GreenValley-Preview/) |
 | CatCafe | Coffee Shop | Completed | [Preview](https://basadstudios.github.io/Website-CatCafe-Preview/) |
+| John Doe | Portfolio | Completed | [Preview](https://basadstudios.github.io/Website-ScrollingPortfolio-Preview/) |
 
 
 <div align="center">
