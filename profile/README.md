@@ -32,8 +32,8 @@ BASAD Studios specializes in developing applications, games, and websites with a
 |---------|------|--------|-----------|
 | KAKE | E-commerce | In Development | [Preview](https://basadstudios.github.io/kakeshop-preview/) |
 | La Bella Vita | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-LaBellaVita-Preview/) |
-| Sakura Sushi | Restaurant | Coming Soon | [Preview](https://github.com/basadstudios/) |
-| Oakridge Academy | School | Completed | [Preview](https://basadstudios.github.io/Website-LaBellaVita-Preview/) |
+| Sakura Sushi | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-SakuraSushi-Preview/) |
+| Oakridge Academy | School | Completed | [Preview](https://basadstudios.github.io/Website-OakridgeAcademy-Preview/) |
 | InnoTech Manufacturing | Services | Completed | [Preview](https://basadstudios.github.io/Website-InnoTechMfg-Preview/) |
 | Green Valley | Local Community | Completed | [Preview](https://basadstudios.github.io/Website-GreenValley-Preview/) |
 | Cat Cafe | Coffee Shop | Completed | [Preview](https://basadstudios.github.io/Website-CatCafe-Preview/) |
