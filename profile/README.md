@@ -30,7 +30,7 @@ BASAD Studios specializes in developing applications, games, and websites with a
 
 | Project | Type | Status | Link |
 |---------|------|--------|-----------|
-| KAKE | E-commerce | In Development | [Preview](https://basadstudios.github.io/kakeshop-preview/) |
+| KAKE | Electronics Store | In Development | [Preview](https://basadstudios.github.io/kakeshop-preview/) |
 | La Bella Vita | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-LaBellaVita-Preview/) |
 | Sakura Sushi | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-SakuraSushi-Preview/) |
 | Burger Fusion | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-BurgerFusion-Preview/) |
