@@ -34,6 +34,7 @@ BASAD Studios specializes in developing applications, games, and websites with a
 | La Bella Vita | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-LaBellaVita-Preview/) |
 | Sakura Sushi | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-SakuraSushi-Preview/) |
 | Burger Fusion | Restaurant | Completed | [Preview](https://basadstudios.github.io/Website-BurgerFusion-Preview/) |
+| Fiko | Car Dealership | Completed | [Preview](https://basadstudios.github.io/Website-Fiko-Preview) |
 | Oakridge Academy | School | Completed | [Preview](https://basadstudios.github.io/Website-OakridgeAcademy-Preview/) |
 | InnoTech Manufacturing | Services | Completed | [Preview](https://basadstudios.github.io/Website-InnoTechMfg-Preview/) |
 | Green Valley | Local Community | Completed | [Preview](https://basadstudios.github.io/Website-GreenValley-Preview/) |
