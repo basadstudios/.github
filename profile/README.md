@@ -17,7 +17,6 @@ BASAD Studios specializes in developing applications, games, and websites with a
 
 | Project | Status | Description | Link |
 |---------|--------|-------------|------|
-| BASADLOADER | Released | Universal Video Downloader | [GitHub](https://github.com/basadstudios/Universal-Video-Downloader) |
 | Ton | In Development | The Best Music Player | Coming Soon |
 
 ## 🎮 Games
