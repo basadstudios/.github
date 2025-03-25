@@ -36,7 +36,7 @@ BASAD Studios specializes in developing applications, games, and websites with a
 | Fiko | Car Dealership | Completed | [Preview](https://basadstudios.github.io/Website-Fiko-Preview) |
 | Oakridge Academy | School | Completed | [Preview](https://basadstudios.github.io/Website-OakridgeAcademy-Preview/) |
 | InnoTech Manufacturing | Services | Completed | [Preview](https://basadstudios.github.io/Website-InnoTechMfg-Preview/) |
-| GetFit | Gym | Completed | [Preview](https://basadstudios.github.io/Website-GetFit-Preview/) |
+| GetFit | Fitness - Eshop | Completed | [Preview](https://basadstudios.github.io/Website-GetFit-Preview/) |
 | Cat Cafe | Coffee Shop | Completed | [Preview](https://basadstudios.github.io/Website-CatCafe-Preview/) |
 | John Doe | Portfolio | Completed | [Preview](https://basadstudios.github.io/Website-ScrollingPortfolio-Preview/) |
 | USA | Government | Completed | [Preview](https://basadstudios.github.io/Website-USAgov-Preview/) |
