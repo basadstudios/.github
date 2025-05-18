@@ -18,6 +18,7 @@ BASAD Studios specializes in developing applications, games, and websites with a
 | Project | Status | Description | Link |
 |---------|--------|-------------|------|
 | Ton | In Development | The Best Music Player | Coming Soon |
+| Elysion | In Development | Social Media | Coming Soon |
 
 ## 🎮 Games
 
