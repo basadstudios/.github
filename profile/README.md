@@ -24,7 +24,7 @@ BASAD Studios specializes in developing applications, games, and websites with a
 
 | Project | Status | Description | Link |
 |---------|--------|-------------|------|
-| basedroyal.io | In Development | - | Coming Soon |
+| GamDrop | In Development | - | Coming Soon |
 
 ## 🌐 Websites
 
