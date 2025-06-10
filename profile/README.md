@@ -25,7 +25,6 @@ BASAD Studios specializes in developing applications, games, and websites with a
 | Project | Status | Description | Link |
 |---------|--------|-------------|------|
 | GamDrop | In Development | Gambling Simulator | Coming Soon |
-| Fortify | In Development | Survival Defence | Coming Soon |
 
 ## 🌐 Websites
 
